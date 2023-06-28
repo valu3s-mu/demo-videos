@@ -1,4 +1,4 @@
-# VALU3S Mu-FREt Demo Videos
+# VALU3S Mu-FRET Demo Videos
 
 This repository contains demonstraction videos of Mu-FRET's refactoring functionality. 
 Mu-FRET itself can be found in the [Mu-FRET repository](https://github.com/valu3s-mu/mu-fret).
